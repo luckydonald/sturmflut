@@ -11,6 +11,8 @@ It can handle both ordinary image files and animations.
 - pthread
 - ImageMagick
 
+Debian: `sudo apt-get install libpthread-stubs0-dev libpthread imagemagick libmagickwand-dev`
+
 Use ```make```.
 
 # Usage
